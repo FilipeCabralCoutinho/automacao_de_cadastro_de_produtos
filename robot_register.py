@@ -51,7 +51,7 @@ for row in table.itertuples():
     auto.press('tab', presses=16)
     auto.press('enter')
 
-    time.sleep(2)
+    time.sleep(0.5)
     auto.press('tab', presses=4)
     
     
