@@ -2,3 +2,6 @@
 # O programava vai obter as insformações do arquivo em excel, acessará o site do formulário de cadastro,
 # vai inserir as informações e enviar o formulário.
 
+import pandas as pd
+import pyautogui as auto
+
